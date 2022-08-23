@@ -1,0 +1,4 @@
+hardware;1;40
+higiene;2;20
+casa;3;30
+exterior;4;59
